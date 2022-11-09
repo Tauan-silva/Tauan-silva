@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [desafio-stone](https://github.com/Tauan-silva/desafio-mobile)  
   
 
-- 🌱 I’m currently learning Unit Tests and Instrumented tests  
+- 🌱 I’m currently learning Compose, Unit Tests and Instrumented tests  
   
 
 - ❓ Ask me about anything related to the android development stack and related technologies  
